@@ -1,3 +1,4 @@
 # hello-world
 
-this is just a little test repository
+this is just a small test repository
+to practice usage
